@@ -1,4 +1,4 @@
-# FoodExploria
+# Online Food Ordering Management System
 Online Food Ordering Management System Mini-Project.
 
 The mini project has been implemented using PHP and HTML as front end and MySQL as back end.
